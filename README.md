@@ -2,7 +2,7 @@
 
 > This repository was published under the working name **AI-Newsletter**; it is the original **TLDRMailer** codebase. The public repo name simply differed from the product name (the repo was renamed in 2026 to match — GitHub redirects the old URL).
 
-TLDRMailer was a personalized AI newsletter product I cofounded and built (Feb 2023 - Jan 2025). Given a topic, it discovered articles via the Bing Search API, summarized them with GPT, assembled a personalized newsletter with engagement metrics and article links, and delivered it by email. At its peak it served **200+ users with 80% first-month retention**.
+TLDRMailer was a personalized AI newsletter product I built as founding engineer (Feb 2023 - Jan 2025). Given a topic, it discovered articles via the Bing Search API, summarized them with GPT, assembled a personalized newsletter with engagement metrics and article links, and delivered it by email. At its peak it served **200+ users with 80% first-month retention**.
 
 ## My role
 
