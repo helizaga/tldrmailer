@@ -1,8 +1,8 @@
 {
   "name": "ai-newsletter",
   "version": "1.0.0",
-  "description": "Your project description",
-  "main": "dist/server.js",
+  "description": "TLDRMailer API server: RAG pipeline that turns search results into GPT-written personalized newsletters",
+  "main": "dist/server/src/index.js",
   "scripts": {
     "start": "tsc && npm run start:server",
     "start:server": "node dist/server/src/index.js",
